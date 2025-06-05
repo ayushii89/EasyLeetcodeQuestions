@@ -31,7 +31,7 @@ public:
 };
 
 //FOLLOW UP Q 
-//what is inpunt is square matrix 
+//what is input is square matrix 
 // M*M
 /* for(int i=0 ; i< n ; i++)
         {
